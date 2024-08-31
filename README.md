@@ -1,6 +1,6 @@
 # VyOS Package Build Helper
 
-Simply run `./vyos-build-packages-helper.sh` and all packages will be build into an apt repository.
+Simply run `./vyos-build-packages-helper.sh` and all packages will be build into an local apt repository.
 You will be dropped in a vyos-build shell with a webserver at localhost serving the apt repo.
 
 Example usage:
